@@ -1,0 +1,18 @@
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Datos\obj\Debug\Capa_Datos.pdb

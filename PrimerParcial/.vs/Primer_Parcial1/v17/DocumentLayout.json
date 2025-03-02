@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{593B53B4-B538-41EA-BFB2-58AED7EC157D}|Capa_Datos\\Capa_Datos.csproj|c:\\users\\g15\\desktop\\primer parcial\\primerparcial\\capa_datos\\cd_empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593B53B4-B538-41EA-BFB2-58AED7EC157D}|Capa_Datos\\Capa_Datos.csproj|solutionrelative:capa_datos\\cd_empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCD0053-1A0F-4EC3-A4C5-39BA7CE58BF3}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\capa_presentacion\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCD0053-1A0F-4EC3-A4C5-39BA7CE58BF3}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCD0053-1A0F-4EC3-A4C5-39BA7CE58BF3}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\capa_presentacion\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DCD0053-1A0F-4EC3-A4C5-39BA7CE58BF3}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\Capa_Presentacion\\Empleados.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\Empleados.cs",
+              "ToolTip": "C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\Capa_Presentacion\\Empleados.cs",
+              "RelativeToolTip": "Capa_Presentacion\\Empleados.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAhwIYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:28:23.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cd_Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\Capa_Datos\\cd_Empleados.cs",
+              "RelativeDocumentMoniker": "Capa_Datos\\cd_Empleados.cs",
+              "ToolTip": "C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\Capa_Datos\\cd_Empleados.cs",
+              "RelativeToolTip": "Capa_Datos\\cd_Empleados.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:19:16.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\Capa_Presentacion\\Empleados.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\Empleados.cs",
+              "ToolTip": "C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\Capa_Presentacion\\Empleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\Empleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:18:25.468Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

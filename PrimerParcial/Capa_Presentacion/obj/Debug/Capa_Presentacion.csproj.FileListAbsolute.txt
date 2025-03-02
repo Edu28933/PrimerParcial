@@ -1,0 +1,42 @@
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.Estudiantes.resources
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.Form1.resources
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\g15\source\repos\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.Estudiantes.resources
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.Form1.resources
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\g15\Desktop\base de datos 2\practica examen\Primer_Parcial1\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\obj\Debug\Capa_Presentacion.Empleados.resources
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\obj\Debug\Capa_Presentacion.Form1.resources
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\g15\Desktop\primer parcial\PrimerParcial\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
