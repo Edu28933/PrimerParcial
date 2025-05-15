@@ -20,6 +20,8 @@ namespace Capa_Presentacion
         private void pruebadesonido_Load(object sender, EventArgs e)
         {
 
+
+
         }
     }
 }
