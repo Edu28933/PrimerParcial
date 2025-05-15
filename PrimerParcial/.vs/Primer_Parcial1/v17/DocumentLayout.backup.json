@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "Capa_Presentacion\\Empleados.cs",
               "ToolTip": "C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\Capa_Presentacion\\Empleados.cs",
               "RelativeToolTip": "Capa_Presentacion\\Empleados.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAhwI0AAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAhwIYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T18:28:23.294Z"
+              "WhenOpened": "2025-03-02T18:28:23.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,7 +49,7 @@
               "RelativeDocumentMoniker": "Capa_Datos\\cd_Empleados.cs",
               "ToolTip": "C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\Capa_Datos\\cd_Empleados.cs",
               "RelativeToolTip": "Capa_Datos\\cd_Empleados.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T18:19:16.577Z",
               "EditorCaption": ""
@@ -62,7 +63,8 @@
               "ToolTip": "C:\\Users\\g15\\Desktop\\primer parcial\\PrimerParcial\\Capa_Presentacion\\Empleados.cs [Dise\u00F1o]",
               "RelativeToolTip": "Capa_Presentacion\\Empleados.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T18:18:25.468Z"
+              "WhenOpened": "2025-03-02T18:18:25.468Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
