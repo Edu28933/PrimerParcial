@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace Capa_Presentacion
 {
-    public partial class pruebadesonido : Form
+    public partial class usuarios : Form
     {
-        public pruebadesonido()
+        public usuarios()
         {
             InitializeComponent();
-        }
-
-        private void pruebadesonido_Load(object sender, EventArgs e)
-        {
-
-
-
         }
     }
 }
