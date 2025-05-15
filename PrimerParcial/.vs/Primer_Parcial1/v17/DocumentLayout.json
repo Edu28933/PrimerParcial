@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Marleny\\source\\repos\\PrimerParcial\\PrimerParcial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eduar\\source\\repos\\PrimerParcial\\PrimerParcial\\Capa_Datos\\cd_Empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DCD0053-1A0F-4EC3-A4C5-39BA7CE58BF3}|Capa_Presentacion\\Capa_Presentacion.csproj|c:\\users\\marleny\\source\\repos\\primerparcial\\primerparcial\\capa_presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DCD0053-1A0F-4EC3-A4C5-39BA7CE58BF3}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,13 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "cd_Empleados.cs",
-              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\PrimerParcial\\PrimerParcial\\Capa_Datos\\cd_Empleados.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\eduar\\source\\repos\\PrimerParcial\\PrimerParcial\\Capa_Datos\\cd_Empleados.cs",
-              "ToolTip": "C:\\Users\\eduar\\source\\repos\\PrimerParcial\\PrimerParcial\\Capa_Datos\\cd_Empleados.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\eduar\\source\\repos\\PrimerParcial\\PrimerParcial\\Capa_Datos\\cd_Empleados.cs",
+              "Title": "FrmEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marleny\\source\\repos\\PrimerParcial\\PrimerParcial\\Capa_Presentacion\\FrmEmpleados.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FrmEmpleados.cs",
+              "ToolTip": "C:\\Users\\Marleny\\source\\repos\\PrimerParcial\\PrimerParcial\\Capa_Presentacion\\FrmEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\FrmEmpleados.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T18:19:16.577Z"
+              "WhenOpened": "2025-05-15T06:00:23.447Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
