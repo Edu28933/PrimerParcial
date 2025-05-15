@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\eduar\\source\\repos\\PrimerParcial\\PrimerParcial\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCD0053-1A0F-4EC3-A4C5-39BA7CE58BF3}|Capa_Presentacion\\Capa_Presentacion.csproj|c:\\users\\eduar\\source\\repos\\primerparcial\\primerparcial\\capa_presentacion\\pruebadesonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DCD0053-1A0F-4EC3-A4C5-39BA7CE58BF3}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\pruebadesonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -22,6 +23,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pruebadesonido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eduar\\source\\repos\\PrimerParcial\\PrimerParcial\\Capa_Presentacion\\pruebadesonido.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\pruebadesonido.cs",
+              "ToolTip": "C:\\Users\\eduar\\source\\repos\\PrimerParcial\\PrimerParcial\\Capa_Presentacion\\pruebadesonido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\pruebadesonido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:04:15.265Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
